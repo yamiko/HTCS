@@ -1,0 +1,9 @@
+MIDlet-1: HtcMidlet, ,com.baobab.htc.presentation.midlets.HtcMidlet
+MIDlet-Jar-Size: 112224
+MIDlet-Jar-URL: HTC.jar
+MIDlet-Name: HTC
+MIDlet-Permissions: javax.microedition.io.file, javax.microedition.io
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
